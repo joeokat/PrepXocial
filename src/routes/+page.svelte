@@ -1,4 +1,8 @@
-<section class="login--screen">
+<script>
+
+</script>
+
+<main class="login--screen">
         <section class="login--container">
             <div class="login--caption">
                 <img src="logo.svg" alt="logo">
@@ -6,7 +10,7 @@
                 <h3 style="font-weight: 500;"> A Social Ed-Tech Platform for Basic, Secondary & College School Learners and Facilitators</h3>
             </div>
 
-            <a class="subscribe-btn" href="/home.svelte"> Sign in here </a>
+            <a class="subscribe-btn" href="/explore"> Explore Website </a>
             
             <a class="telegram-btn" id="installLink" href=" " style="display: none;">
                 <img src="download.svg" alt="install"> Install web app
@@ -21,4 +25,4 @@
             <h5 style="font-weight: 500;">Join the waitlist today and connect with learners in your province</h5>
             <h5 style="font-weight: 500;">Copyright &copy; 2024 PrepX. All rights reserved</h5>  
         </div> 
-</section>
+    </main>

@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<!-- <head>
     <meta charset="UTF-8">
     <meta name="theme-color" content="#f9f9f9">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -14,7 +14,7 @@
     <link rel="manifest" href="/site.manifest.json">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <title>Prep X: Exams Consult</title>
-</head>
+</head> -->
 
 <body>      
     <header>
@@ -30,7 +30,7 @@
                 <img src="/assets/close-icon.svg" alt="menu icon">
             </button>
             <ul>                   
-                <li><a href="/home.html"> What's New </a></li>
+                <li><a href="/explore"> What's New </a></li>
                 <li><a href="/src/lessonNotes.html"> 24/7 Study Help </a></li>
                 <li><a href="/src/revision.html"> Revision </a></li>
                 <li><a href="/src/jobAlert.html"> Career </a></li>

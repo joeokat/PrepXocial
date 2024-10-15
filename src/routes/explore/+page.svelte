@@ -1,18 +1,18 @@
 <main>      
-    <header>
+    <!-- <header>
         <div class="header--bar">
-            <img src="/assets/logo.svg" alt="logo">
+            <img src="/logo.svg" alt="logo">
             <button onclick = "showSidebar()" class="svg-icon">
-                <img src="/assets/menu-icon.svg" alt="menu icon">
+                <img src="/menu-icon.svg" alt="menu icon">
             </button>
         </div>
 
         <nav class="side--menu">
             <button onclick="hideSidebar()" id="close" class="svg-icon">
-                <img src="/assets/close-icon.svg" alt="menu icon">
+                <img src="/close-icon.svg" alt="menu icon">
             </button>
             <ul>                   
-                <li><a href="#"> What's New </a></li>
+                <li><a href=" "> What's New </a></li>
                 <li><a href="src/lessonNotes.html"> Study Help </a></li>
                 <li><a href="src/revision.html"> Revision </a></li>
                 <li><a href="https://whatsapp.com/channel/0029VaeRav7JuyAImX0dzq0N"> Career </a></li>  
@@ -20,7 +20,7 @@
                 <li><div class="cta--telegram"><a class="telegram-btn" href="https://t.me/prepxconsult"> Forum <img src="/assets/telegram.svg" alt="telegram"> </a></div></li>
             </ul>
         </nav>
-    </header>
+    </header> -->
     <main>
         <!-- <div class="reviews">
             <div class="banner--card">                
@@ -41,7 +41,7 @@
 
                 <a href="src/revision.html" class="card-link">
                     <div class="card">
-                        <img src="/assets/revision.svg" alt="revise" class="card-icon">
+                        <img src="/revision.svg" alt="revise" class="card-icon">
                         <h3 class="card-heading">Tests</h3>
                         <p class="card-subheading">10+ Trials</p>
                     </div>
@@ -49,7 +49,7 @@
 
                 <a href="/nearby.html" class="card-link">
                     <div class="card">
-                        <img src="/assets/users.svg" alt="revise" class="card-icon">
+                        <img src="/users.svg" alt="revise" class="card-icon">
                         <h3 class="card-heading">Nearby</h3>
                         <p class="card-subheading">coming soon</p>
                     </div>
@@ -57,7 +57,7 @@
 
                 <a href="https://shorturl.at/AsU8S">
                     <div class="card">
-                        <img src="/assets/thesis.svg" alt="job" class="card-icon">
+                        <img src="/thesis.svg" alt="job" class="card-icon">
                         <h3 class="card-heading">Job Alert</h3>
                         <p class="card-subheading">Entry Level</p>
                     </div>
@@ -73,14 +73,14 @@
             <div class="cards-container">
                 <a href="https://wa.me/233541482392" class="card-link">
                     <div class="card">
-                        <img src="/assets/alert.svg" alt="Icon 1" class="card-icon">
+                        <img src="/alert.svg" alt="Icon 1" class="card-icon">
                         <h3 class="card-heading">Diploma</h3>
                         <p class="card-subheading">180 completed</p>
                     </div>
                 </a>
                 <a href="https://wa.me/233509994874" class="card-link">
                     <div class="card">
-                        <img src="/assets/grad.svg" alt="Icon 1" class="card-icon">
+                        <img src="/grad.svg" alt="Icon 1" class="card-icon">
                         <h3 class="card-heading">Undergraduate</h3>
                         <p class="card-subheading">128 completed</p>
                     </div>
@@ -95,7 +95,7 @@
             <div class="cards-container">
                 <a href="https://wa.me/233509994874" class="card-link">
                     <div class="card">
-                        <img src="/assets/intern.svg" alt="Icon 1" class="card-icon">
+                        <img src="/intern.svg" alt="Icon 1" class="card-icon">
                         <h3 class="card-heading">Internship</h3>
                         <p class="card-subheading">98 IT Alumni</p>
                     </div>
@@ -103,7 +103,7 @@
 
                 <a href="https://wa.me/233509994874" class="card-link">
                     <div class="card">
-                        <img src="/assets/apprentice.svg" alt="Icon 1" class="card-icon">
+                        <img src="/apprentice.svg" alt="Icon 1" class="card-icon">
                         <h3 class="card-heading">Apprenticeship</h3>
                         <p class="card-subheading">128 IT Learners</p>
                     </div>
@@ -111,7 +111,7 @@
                 
                 <a href="https://wa.me/233548536642" class="card-link">
                     <div class="card">
-                        <img src="/assets/thesis.svg" alt="Icon 1" class="card-icon">
+                        <img src="/thesis.svg" alt="Icon 1" class="card-icon">
                         <h3 class="card-heading">CyberSecurity</h3>
                         <p class="card-subheading">69 Alumni</p>
                     </div>
@@ -125,14 +125,14 @@
             <div class="cards-container">
                 <a href="https://wa.me/233509994874" class="card-link">
                     <div class="card">
-                        <img src="/assets/math.svg" alt="Icon 1" class="card-icon">
+                        <img src="/math.svg" alt="Icon 1" class="card-icon">
                         <h3 class="card-heading">CoreMathematics</h3>
                         <p class="card-subheading">18.06k Assignment completed</p>
                     </div>
                 </a>
                 <a href="https://wa.me/233509994874" class="card-link">
                     <div class="card">
-                        <img src="/assets/science.svg" alt="Icon 1" class="card-icon">
+                        <img src="/science.svg" alt="Icon 1" class="card-icon">
                         <h3 class="card-heading">IntegratedScience</h3>
                         <p class="card-subheading">8.60k Homework completed</p>
                     </div>
@@ -140,14 +140,14 @@
                    
                 <a href="https://wa.me/233261430256" class="card-link">
                     <div class="card">
-                        <img src="/assets/hacking.svg" alt="Icon 1" class="card-icon">
+                        <img src="/hacking.svg" alt="Icon 1" class="card-icon">
                         <h3 class="card-heading">WebsiteDesign</h3>
                         <p class="card-subheading">0.1k students enrolled</p>
                     </div>
                 </a>           
                 <a href="https://wa.me/233261430256" class="card-link">
                     <div class="card">
-                        <img src="/assets/coding.svg" alt="Icon 1" class="card-icon">
+                        <img src="/coding.svg" alt="Icon 1" class="card-icon">
                         <h3 class="card-heading">Programming</h3>
                         <p class="card-subheading">1.2k python bugs fixed</p>
                     </div>
@@ -155,11 +155,7 @@
             </div>
         </div>
     </main>
-    <footer>
-        <p>Designed with 🤍 by BYOI <br /> Copyright &copy; 2024 PrepX. All rights reserved.</p>  
-    </footer>
-    <script src="/src/index.js"></script>
-    <script src="/install.js"></script>
-    <script src="/sw.js"></script>
+    
+    
 </main>
 

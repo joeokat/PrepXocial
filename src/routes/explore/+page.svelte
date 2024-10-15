@@ -16,7 +16,7 @@
         <h2 style="font-weight: 500;">Prepx</h2>
         <div class="cards-container">
 
-            <a href="src/revision.html" class="card-link">
+            <a href="/revision" class="card-link">
                 <div class="card">
                     <img src="/revision.svg" alt="revise" class="card-icon">
                     <h3 class="card-heading">Tests</h3>
@@ -24,7 +24,7 @@
                 </div>
             </a>
 
-            <a href="/nearby.html" class="card-link">
+            <a href="/nearbyChat" class="card-link">
                 <div class="card">
                     <img src="/users.svg" alt="revise" class="card-icon">
                     <h3 class="card-heading">Nearby</h3>

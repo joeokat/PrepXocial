@@ -1,8 +1,5 @@
-<script>
-    import install from "$lib/install.js";
-</script>
 
-<main class="login--screen">
+<section class="login--screen">
     <section class="login--container">
         <div class="login--caption">
             <img src="logo.svg" alt="logo">
@@ -25,4 +22,8 @@
         <h5 style="font-weight: 500;">Join the waitlist today and connect with learners in your province</h5>
         <h5 style="font-weight: 500;">Copyright &copy; 2024 PrepX. All rights reserved</h5>  
     </div> 
-</main>
+</section>
+
+<!-- <script>
+    import install from "$lib/install.js";
+</script> -->

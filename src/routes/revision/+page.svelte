@@ -1,5 +1,5 @@
 
-<main>
+<section>
     <h2 style="font-weight: 500;">Revise seamlessly</h2>
     <p class="headline">
         " In the end we only regret the chances we did not take " ~ Lewis Carroll
@@ -59,13 +59,13 @@
     <p class="bece"> MCQs </p>
     <div class="subjects">
         <a href="https://paystack.com/pay/prepx" class="sub"><p class="subject">Civil Service Exams Q & A 🍀</p><img class="lock" src="/lock.svg" alt="lock"></a>
-        <a href="subscribe.html" class="sub"><p class="subject">Core Mathematics 🔥</p><img class="lock" src="/lock.svg" alt="lock"></a>            
-        <a href="subscribe.html" class="sub"><p class="subject">Integrated Science 🔥</p><img class="lock" src="/lock.svg" alt="lock"></a>
-        <a href="subscribe.html" class="sub"><p class="subject">Social Studies 🔥</p><img class="lock" src="/lock.svg" alt="lock"></a>
+        <a href="subscribe" class="sub"><p class="subject">Core Mathematics 🔥</p><img class="lock" src="/lock.svg" alt="lock"></a>            
+        <a href="subscribe" class="sub"><p class="subject">Integrated Science 🔥</p><img class="lock" src="/lock.svg" alt="lock"></a>
+        <a href="subscribe" class="sub"><p class="subject">Social Studies 🔥</p><img class="lock" src="/lock.svg" alt="lock"></a>
         <a href="https://paystack.com/pay/prepx" class="sub"><p class="subject">I.C.T 🍀</p><img class="lock" src="/lock.svg" alt="lock"></a>
         <a href=" " class="sub"><p class="subject">French 🍀</p><img class="lock" src="/lock.svg" alt="lock"></a>
     </div>
 
     
     <a class="subscribe-btn" href="subscribe.html"> Get Access Now <img src="/verified.svg" alt="verified"></a>
-</main>
+</section>

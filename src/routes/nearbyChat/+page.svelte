@@ -54,7 +54,7 @@
                     <div class="nearby--col">
                         <div class="nearby--row">
                             <div class="nearby--dp">
-                                <img src="/assets/android-chrome-192x192.png" alt="display picture">
+                                <img src="/assets/android-chrome-192x192.png" alt="">
                                 <div class="nearby--info">
                                     <div class="nearby--user"><p>Prep-X</p><img src="/assets/redbadge.svg" alt="socials"></div>
                                     <small>Social Ed-Tech</small>
@@ -65,11 +65,11 @@
 
                         <p class="nearby--desc">We help facilitators develop multiple income streams online effortlessly. </p>
                         <div class="btn--row">
-                            <a class="social--btns" ><img src="/assets/facebk.svg" alt="socials"></a>
-                            <a class="social--btns" ><img src="/assets/instagram.svg" alt="socials"></a>
-                            <a class="social--btns" ><img src="/assets/whatsap.svg" alt="socials"></a>
-                            <a class="social--btns" ><img src="/assets/tiktok.svg" alt="socials"></a>
-                            <a class="social--btns" ><img src="/assets/snapchat.svg" alt="socials"></a>
+                            <a class="social--btns" href=" "><img src="/assets/facebk.svg" alt="socials"></a>
+                            <a class="social--btns" href=" "><img src="/assets/instagram.svg" alt="socials"></a>
+                            <a class="social--btns" href=" "><img src="/assets/whatsap.svg" alt="socials"></a>
+                            <a class="social--btns" href=" "><img src="/assets/tiktok.svg" alt="socials"></a>
+                            <a class="social--btns" href=" "><img src="/assets/snapchat.svg" alt="socials"></a>
                             <button class="star-btn" id="starButton">Give a Star </button>
                         </div>
                     </div>
@@ -77,7 +77,7 @@
                     <div class="nearby--col">
                         <div class="nearby--row">
                             <div class="nearby--dp">
-                                <img src="/assets/annabelle.png" alt="display picture">
+                                <img src="/assets/annabelle.png" alt=" ">
                                 <div class="nearby--info">
                                     <div class="nearby--user"><p>Anabelle Ntim</p></div>
                                     <small>TikToker </small>
@@ -90,15 +90,15 @@
                 👇👇👇👇👇</p>
                         <div class="btn--row">
                             <!-- <a class="social--btns" ><img src="/assets/facebk.svg" alt="socials"></a> -->
-                            <a class="social--btns" ><img src="/assets/instagram.svg" alt="socials"></a>
-                            <a class="social--btns" ><img src="/assets/whatsap.svg" alt="socials"></a>
-                            <a class="social--btns" ><img src="/assets/tiktok.svg" alt="socials"></a>
+                            <a class="social--btns" href=" "><img src="/assets/instagram.svg" alt="socials"></a>
+                            <a class="social--btns" href=" "><img src="/assets/whatsap.svg" alt="socials"></a>
+                            <a class="social--btns" href=" "><img src="/assets/tiktok.svg" alt="socials"></a>
                             <!-- <a class="social--btns" ><img src="/assets/snapchat.svg" alt="socials"></a> -->
                             <button class="star-btn" id="starButton">Give a Star </button>
                         </div>
                     </div>
                 <a class="whatsapp-btn" href="https://whatsapp.com/channel/0029VaeRav7JuyAImX0dzq0N"> Join the waitlist <img src="/assets/whatsapp.svg" alt="telegram"> </a>
-                <a class="telegram-btn" href="#"> Get Organic Followers </a>
+                <a class="telegram-btn" href=" "> Get Organic Followers </a>
             </main>
         
             <footer>

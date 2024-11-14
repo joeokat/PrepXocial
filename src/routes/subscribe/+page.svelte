@@ -1,8 +1,8 @@
 
-<header class="header--bar">
+<!-- <header class="header--bar">
     <img src="/logo.svg" alt="logo">
     <a class="svg-icon" href="revision"><img src="/back-icon.svg" alt="back icon"></a>
-</header>
+</header> -->
 
 <section>
     <img class="banner" src="/banner.png" alt="banner">

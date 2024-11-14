@@ -2,5 +2,6 @@
 </script>
 
 <footer>
-        <p>Designed with 🤍 by BYOI <br /> Copyright &copy; 2024 PrepX. All rights reserved.</p>  
+        <p>Designed with 🤍 by BYOI</p> <br />
+        <p>Copyright &copy; 2024 Prep Social. All rights reserved.</p>  
 </footer>

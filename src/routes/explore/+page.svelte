@@ -19,8 +19,8 @@
             <a href="/revision" class="card-link">
                 <div class="card">
                     <img src="/revision.svg" alt="revise" class="card-icon">
-                    <h3 class="card-heading">Tests</h3>
-                    <p class="card-subheading">10+ Trials</p>
+                    <h3 class="card-heading">Study Notes</h3>
+                    <p class="card-subheading">Past Questions</p>
                 </div>
             </a>
 
@@ -28,7 +28,7 @@
                 <div class="card">
                     <img src="/users.svg" alt="revise" class="card-icon">
                     <h3 class="card-heading">Nearby</h3>
-                    <p class="card-subheading">coming soon</p>
+                    <p class="card-subheading">Coming Soon</p>
                 </div>
             </a>
 

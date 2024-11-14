@@ -3,11 +3,11 @@
     <section class="login--container">
         <div class="login--caption">
             <img src="logo.svg" alt="logo">
-            <h1 class="login--title"> Prep-X </h1>
-            <h3 style="font-weight: 500;"> A Social Ed-Tech Platform for Basic, Secondary & College School Learners and Facilitators</h3>
+            <h1 class="login--title"> Prep Xocial </h1>
+            <h3 style="font-weight: 500;">Social Ed-Tech Platform for Basic & Secondary Education School Learners and Facilitators</h3>
         </div>
 
-        <a class="subscribe-btn" href="/explore"> Explore Website </a>
+        <a class="subscribe-btn" href="/explore"> Explore Platform </a>
         
         <a class="telegram-btn" id="installLink" href=" " style="display: none;">
             <img src="download.svg" alt="install"> Install web app

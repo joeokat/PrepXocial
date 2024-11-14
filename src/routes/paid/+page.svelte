@@ -1,13 +1,13 @@
 
-<header class="header--bar">
+<!-- <header class="header--bar">
     <img src="/logo.svg" alt="logo">
     <a class="svg-icon" href="/.."><img src="/back-icon.svg" alt="back icon"></a>
-</header>
+</header> -->
 
 <section>
     <h2 style="font-weight: 500;">Congratulations 🎉</h2>
-    <h3 style="font-weight: 500;">Your subscription has been confirmed!</h3>
-    <p>You will receive weekly lesson notes and test trials via E-mail, Telegram or WhatsApp. Please check your inbox and spam folder for the latest updates.</p>
+    <h3 style="font-weight: 500;">Your subscription has been confirmed!</h3> <br />
+    <p>You will receive past exams questions in your E-mail, Telegram or WhatsApp. Please check your inbox and spam folder for the latest updates.</p>
     <br />
     <p style="margin-bottom: 24px;">If you have any questions or need further assistance, please don't hesitate to reach out to us at 
         <a href="mailto:prepxconsult@gmail.com" 

@@ -13,7 +13,7 @@
     </div> -->
 
     <div class="card-wrapper">
-        <h2 style="font-weight: 500;">Prepx</h2>
+        <h2 style="font-weight: 500;">Explore</h2>
         <div class="cards-container">
 
             <a href="/revision" class="card-link">
@@ -24,7 +24,7 @@
                 </div>
             </a>
 
-            <a href="/nearbyChat" class="card-link">
+            <a href=" " class="card-link">
                 <div class="card">
                     <img src="/users.svg" alt="revise" class="card-icon">
                     <h3 class="card-heading">Nearby</h3>
@@ -45,7 +45,7 @@
     </div>
 
     <!-- Project work help needed -->
-    <div class="card-wrapper">
+    <!-- <div class="card-wrapper">
         <h2 style="font-weight: 500;">Project Writing</h2>
         <div class="cards-container">
             <a href="https://wa.me/233541482392" class="card-link">
@@ -64,10 +64,10 @@
             </a>
                             
         </div>
-    </div>
+    </div> -->
 
     <!-- Experience needed -->
-    <div class="card-wrapper">
+    <!-- <div class="card-wrapper">
         <h2 style="font-weight: 500;">Coursework</h2>
         <div class="cards-container">
             <a href="https://wa.me/233509994874" class="card-link">
@@ -94,39 +94,39 @@
                 </div>
             </a>          
         </div>
-    </div>
+    </div> -->
 
     <!-- Study help needed -->
     <div class="card-wrapper">
-        <h2 style="font-weight: 500;">Homework Help</h2>
+        <h2 style="font-weight: 500;">For You</h2>
         <div class="cards-container">
+            <a href="https://wa.me/233261430256" class="card-link">
+                <div class="card">
+                    <img src="/coding.svg" alt="Icon 1" class="card-icon">
+                    <h3 class="card-heading">Programming</h3>
+                    <p class="card-subheading">For Kids & Adults</p>
+                </div>
+            </a>
+
             <a href="https://wa.me/233509994874" class="card-link">
                 <div class="card">
                     <img src="/math.svg" alt="Icon 1" class="card-icon">
                     <h3 class="card-heading">CoreMathematics</h3>
-                    <p class="card-subheading">18.06k Assignment completed</p>
+                    <p class="card-subheading">For Primary & JHS (30)</p>
                 </div>
             </a>
             <a href="https://wa.me/233509994874" class="card-link">
                 <div class="card">
                     <img src="/science.svg" alt="Icon 1" class="card-icon">
-                    <h3 class="card-heading">IntegratedScience</h3>
-                    <p class="card-subheading">8.60k Homework completed</p>
+                    <h3 class="card-heading">GeneralScience</h3>
+                    <p class="card-subheading">For Primary (60)</p>
                 </div>
             </a>
-                
             <a href="https://wa.me/233261430256" class="card-link">
                 <div class="card">
                     <img src="/hacking.svg" alt="Icon 1" class="card-icon">
-                    <h3 class="card-heading">WebsiteDesign</h3>
-                    <p class="card-subheading">0.1k students enrolled</p>
-                </div>
-            </a>           
-            <a href="https://wa.me/233261430256" class="card-link">
-                <div class="card">
-                    <img src="/coding.svg" alt="Icon 1" class="card-icon">
-                    <h3 class="card-heading">Programming</h3>
-                    <p class="card-subheading">1.2k python bugs fixed</p>
+                    <h3 class="card-heading">EthicalHacking</h3>
+                    <p class="card-subheading">For Kids (10)</p>
                 </div>
             </a>
         </div>

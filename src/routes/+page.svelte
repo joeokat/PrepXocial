@@ -4,7 +4,7 @@
         <div class="login--caption">
             <img src="logo.svg" alt="logo">
             <h1 class="login--title"> Prep Xocial </h1>
-            <h3 style="font-weight: 500;">Social Ed-Tech Platform for Basic & Secondary Education School Learners and Facilitators</h3>
+            <h3 style="font-weight: 500;">Social Ed-Tech Platform for Basic, Secondary & College School Learners</h3>
         </div>
 
         <a class="subscribe-btn" href="/explore"> Explore Platform </a>

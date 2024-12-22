@@ -29,6 +29,5 @@
 			Join the waitlist today and connect with learners in your province
 		</h5>
 		<h5 style="font-weight: 500;">Copyright &copy; {currentYear} PrepX. All rights reserved</h5>
-		<h5 style="font-weight: 500;">Copyright &copy; {currentYear} PrepX. All rights reserved</h5>
 	</div>
 </section>

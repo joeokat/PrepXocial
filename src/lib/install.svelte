@@ -42,5 +42,5 @@
 </script>
 
 <a class="telegram-btn" id="installLink" href=" " style="display: {isInstalled ? 'none' : 'flex'};">
-	<img src="download.svg" alt="install" /> Install web app
+	<img src="download.svg" alt="install" /> Install Web App
 </a>

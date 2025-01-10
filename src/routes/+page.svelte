@@ -1,5 +1,5 @@
-<script>
-	import Install from '$lib/Install.svelte';
+<script lang="ts">
+	import InstallButton from '$lib/InstallButton.svelte';
 
 	let currentYear = new Date().getFullYear();
 </script>
@@ -9,15 +9,15 @@
 		<div class="login--caption">
 			<img src="logo.svg" alt="logo" />
 			<h1 class="login--title">Prep Xocial</h1>
-			<h3 style="font-weight: 500;">
-				Social Ed-Tech Platform for Basic, Secondary & College School Learners
+			<h3 style="font-weight: 400; font-size: 16px;">
+				Community based learning platform for Basic and Secondary Education Learners in West Africa.
 			</h3>
 		</div>
 
 		<a class="subscribe-btn" href="/explore"> Explore Platform </a>
 
 		<!-- Render the Install component -->
-		<Install />
+		<InstallButton />
 
 		<a class="whatsapp-btn" href="https://whatsapp.com/channel/0029VaeRav7JuyAImX0dzq0N">
 			<img src="whatsapp.svg" alt="whatsapp" /> Announcements

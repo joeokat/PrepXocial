@@ -1,8 +1,7 @@
 <script>
+	import { onMount } from 'svelte';
 	let deferredPrompt;
 	let isInstalled = false;
-
-	import { onMount } from 'svelte';
 
 	onMount(() => {
 		// Check if the app is already installed

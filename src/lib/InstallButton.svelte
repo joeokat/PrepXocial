@@ -1,4 +1,4 @@
-<script>
+<!-- <script>
 	import { onMount } from 'svelte';
 	let deferredPrompt;
 	let isInstalled = false;
@@ -40,6 +40,54 @@
 	});
 </script>
 
-<a class="telegram-btn" id="installLink" href=" " style="display: {isInstalled ? 'none' : 'flex'};">
+<a class="telegram-btn" id="installLink" href="/" style="display: {isInstalled ? 'none' : 'flex'};">
 	<img src="download.svg" alt="install" /> Install Web App
-</a>
+</a> -->
+
+<!-- I am still looking at how to fix this issue so once i find something that works i will update you. -->
+
+<script lang="ts">
+	import { onMount } from 'svelte';
+	
+	let deferredPrompt = null;
+	let isInstalled = false;
+	let showInstallButton = false;
+	
+	onMount(() => {
+	  // Check if the app is already installed
+	  isInstalled = window.matchMedia('(display-mode: standalone)').matches;
+	
+	  // Listen for the beforeInstallPrompt event
+	  window.addEventListener('beforeInstallPrompt', (e) => {
+		e.preventDefault();
+		deferredPrompt = e;
+		showInstallButton = true;
+	  });
+	
+	  return () => {
+		window.removeEventListener('beforeInstallPrompt', () => {});
+	  };
+	});
+	
+	async function handleInstallClick() {
+	  if (!deferredPrompt) return;
+	  
+	  showInstallButton = false;
+	  deferredPrompt.prompt();
+	  
+	  const { outcome } = await deferredPrompt.userChoice;
+	  console.log(`User response to the install prompt: ${outcome}`);
+	  deferredPrompt = null;
+	}
+	</script>
+	
+	{#if showInstallButton && !isInstalled}
+	  <a 
+		class="telegram-btn" 
+		href="/" 
+		on:click|preventDefault={handleInstallClick}
+	  >
+		<img src="download.svg" alt="install" /> 
+		Install Web App
+	  </a>
+	{/if}

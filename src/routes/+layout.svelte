@@ -1,15 +1,26 @@
 <script>
-	import { page } from '$app/stores';
-	import Header from '$lib/components/Header.svelte';
-	import Footer from '$lib/components/Footer.svelte';
+  import '../styles/app.css';
+  import '../styles/card.css';
+
+  import { page } from '$app/stores';
+  import Header from '$lib/components/Header.svelte';
+  import Footer from '$lib/components/Footer.svelte';
+
+  const showHeaderFooter = $page.url.pathname !== '/';
 </script>
 
-{#if $page.url.pathname !== '/'}
-	<Header />
+{#if showHeaderFooter}
+  <Header />
 {/if}
 
-<slot />
+<slot>
+  <p>Sorry, the issue is from us not you.</p>
+</slot>
 
-{#if $page.url.pathname !== '/'}
-	<Footer />
+{#if showHeaderFooter}
+  <Footer />
 {/if}
+
+<!-- <main>
+  <p>testing page load</p>
+</main> -->
